@@ -1,0 +1,195 @@
+.datetop{
+    float: left;
+    color: white;
+    margin-left: 130px;
+    justify-content: center;
+    font-family: sans-serif;
+    margin-top: 0;
+}
+.icons-list li{
+    margin-top: 0;
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+    justify-content: space-between;
+    justify-items: baseline;
+
+}
+
+.icons-list {
+    margin-top: 0;
+    margin-right: 80px;
+    
+}
+.bar{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #683218;
+    height: 50px;
+}
+
+.secondbar{
+  
+    background-color: #BF550D;
+    height: 110px;
+}
+.cuilogo{
+    float: left;
+    margin-left: 125px;
+    overflow: hidden;
+}
+.barmenu{
+    margin-top: 10px;
+    float: right;
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin-right: 55px;
+    overflow: hidden;
+    
+}
+
+.barmenu ul li{
+    margin-top: 10px;
+    float: right;
+    float: right;
+    list-style-type: none;
+    margin-right: 18px;
+    overflow: hidden;
+    color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-style: none;
+
+}
+
+.barmenu ul li a{
+    margin-top: 10px;
+    float: right;
+    float: right;
+    list-style-type: none;
+    margin-right: 18px;
+    overflow: hidden;
+    color: white;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-style: none;
+
+}
+
+.navbar{
+    height: 50px;
+    background-color: #F7F3EA;
+}
+.navbar ul{
+    margin-left: 100px;
+}
+.navbar ul li{
+    margin-left: 5px;
+    margin-right: 15px;
+    margin-top: 6px;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+} 
+.navbar li a{
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.navbar ul li button{
+    border-style: none;
+    margin-bottom: 10px;
+    background-color: #F7F3EA;
+}
+
+.drowdownbar li{
+    float: right;
+    
+}
+.drowdownbar-right{
+    float: right;
+    margin-right: 70px;
+    
+}
+.drowdownbar-right li{
+    float: right;
+    
+}
+.menua{
+    
+    background-color: #FFFFFF;
+    cursor: default;
+    margin-top: 10px; 
+}
+.menua a{
+    
+    text-align: left;
+    background-color: #FFFFFF;
+    cursor: text;
+    margin-left: 40px;
+}
+.menu {
+    
+    text-align: left;
+    background-color: #FFFFFF;
+    cursor: default;
+}
+.menu a{
+   
+    text-align: left;
+    background-color: #FFFFFF;
+    cursor: text;
+    margin-left: 40px;
+    
+}
+.menu img{
+    
+    background-color: #FFFFFF;
+   cursor: pointer;
+    
+}
+.menuimgs a{
+    display: block;
+    float: right;
+}
+
+.leftcardsfloat{
+    float: left;
+margin-left: 50px;  
+    max-width: 350px;
+}
+.mybtn{
+    background-color: #994215;
+    height: 50px;
+    width: 250px;
+    border-color: #994215;
+    color: white;
+}
+
+
+
+.cards{
+    margin-top: 20px;
+}
+.cards h5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.slides{
+    margin-top: 400px;
+}
+
+.chatbox{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
